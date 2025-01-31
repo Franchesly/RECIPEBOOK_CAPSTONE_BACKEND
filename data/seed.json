@@ -1,0 +1,102 @@
+[
+    {
+      "title": "Spaghetti Carbonara",
+      "ingredients": ["spaghetti", "eggs", "parmesan cheese", "pancetta", "black pepper"],
+      "instructions": "Cook spaghetti. In a bowl, mix eggs and cheese. Cook pancetta until crispy. Combine all ingredients and season with pepper."
+    },
+    {
+      "title": "Chicken Alfredo",
+      "ingredients": ["fettuccine", "chicken breast", "heavy cream", "parmesan cheese", "garlic", "butter"],
+      "instructions": "Cook fettuccine. Cook chicken and set aside. In a pan, melt butter, add garlic, cream, and cheese. Combine with pasta and chicken."
+    },
+    {
+      "title": "Beef Tacos",
+      "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "tomato", "cheese", "sour cream"],
+      "instructions": "Cook beef with seasoning. Warm tortillas. Assemble tacos with beef, lettuce, tomato, cheese, and sour cream."
+    },
+    {
+      "title": "Vegetable Stir Fry",
+      "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "ginger", "garlic", "olive oil"],
+      "instructions": "Heat oil in a pan. Add garlic and ginger. Add vegetables and stir fry. Add soy sauce and cook until vegetables are tender."
+    },
+    {
+      "title": "Margherita Pizza",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil", "olive oil"],
+      "instructions": "Spread sauce on dough. Add cheese and basil. Drizzle with oil. Bake until crust is golden and cheese is melted."
+    },
+    {
+      "title": "Caesar Salad",
+      "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing", "chicken breast"],
+      "instructions": "Grill chicken and slice. Toss lettuce with dressing, croutons, and cheese. Top with chicken."
+    },
+    {
+      "title": "Beef Stew",
+      "ingredients": ["beef chuck", "potatoes", "carrots", "onions", "beef broth", "tomato paste", "thyme"],
+      "instructions": "Brown beef. Add vegetables, broth, and tomato paste. Simmer until beef is tender. Season with thyme."
+    },
+    {
+      "title": "Pancakes",
+      "ingredients": ["flour", "milk", "eggs", "baking powder", "sugar", "butter"],
+      "instructions": "Mix dry ingredients. Add wet ingredients and mix. Cook on a griddle until bubbles form and flip."
+    },
+    {
+      "title": "Chicken Curry",
+      "ingredients": ["chicken breast", "coconut milk", "curry powder", "onions", "garlic", "ginger", "tomatoes"],
+      "instructions": "Cook onions, garlic, and ginger. Add chicken and curry powder. Add tomatoes and coconut milk. Simmer until chicken is cooked."
+    },
+    {
+      "title": "Chocolate Chip Cookies",
+      "ingredients": ["flour", "butter", "sugar", "brown sugar", "eggs", "vanilla extract", "chocolate chips"],
+      "instructions": "Cream butter and sugars. Add eggs and vanilla. Mix in dry ingredients and chocolate chips. Bake until golden."
+    },
+    {
+      "title": "Lasagna",
+      "ingredients": ["lasagna noodles", "ground beef", "ricotta cheese", "mozzarella cheese", "tomato sauce", "parmesan cheese"],
+      "instructions": "Cook noodles. Layer noodles, sauce, beef, and cheeses in a baking dish. Bake until bubbly and golden."
+    },
+    {
+      "title": "Greek Salad",
+      "ingredients": ["cucumber", "tomato", "red onion", "feta cheese", "olives", "olive oil", "oregano"],
+      "instructions": "Chop vegetables. Toss with feta, olives, oil, and oregano."
+    },
+    {
+      "title": "BBQ Ribs",
+      "ingredients": ["pork ribs", "BBQ sauce", "salt", "pepper", "garlic powder"],
+      "instructions": "Season ribs. Bake covered until tender. Brush with BBQ sauce and bake uncovered until caramelized."
+    },
+    {
+      "title": "Shrimp Scampi",
+      "ingredients": ["shrimp", "garlic", "butter", "lemon juice", "white wine", "parsley"],
+      "instructions": "Cook garlic in butter. Add shrimp, lemon juice, and wine. Cook until shrimp is pink. Garnish with parsley."
+    },
+    {
+      "title": "French Toast",
+      "ingredients": ["bread", "eggs", "milk", "cinnamon", "vanilla extract", "butter"],
+      "instructions": "Mix eggs, milk, cinnamon, and vanilla. Dip bread in mixture and cook in butter until golden."
+    },
+    {
+      "title": "Guacamole",
+      "ingredients": ["avocados", "lime juice", "onion", "tomato", "cilantro", "salt"],
+      "instructions": "Mash avocados. Mix in lime juice, onion, tomato, cilantro, and salt."
+    },
+    {
+      "title": "Minestrone Soup",
+      "ingredients": ["onion", "carrot", "celery", "tomatoes", "beans", "pasta", "vegetable broth", "basil"],
+      "instructions": "Cook onion, carrot, and celery. Add tomatoes, beans, broth, and pasta. Simmer until pasta is cooked. Add basil."
+    },
+    {
+      "title": "Apple Pie",
+      "ingredients": ["apples", "sugar", "cinnamon", "nutmeg", "pie crust"],
+      "instructions": "Mix apples with sugar and spices. Fill crust with apple mixture. Top with crust and bake until golden."
+    },
+    {
+      "title": "Chicken Parmesan",
+      "ingredients": ["chicken breast", "breadcrumbs", "parmesan cheese", "mozzarella cheese", "tomato sauce"],
+      "instructions": "Bread chicken with breadcrumbs and parmesan. Bake until cooked. Top with sauce and mozzarella. Bake until cheese is melted."
+    },
+    {
+      "title": "Fish Tacos",
+      "ingredients": ["white fish", "tortillas", "cabbage", "lime", "cilantro", "sour cream"],
+      "instructions": "Cook fish. Warm tortillas. Assemble tacos with fish, cabbage, lime, cilantro, and sour cream."
+    }
+  ]
