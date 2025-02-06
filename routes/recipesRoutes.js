@@ -1,6 +1,5 @@
 const express = require("express");
 const router = express.Router();
-
 const Recipe = require("../models/recipe");
 const recipeSeedData = require('../data/seed.json');
 
@@ -8,18 +7,19 @@ const recipeSeedData = require('../data/seed.json');
 router.get('/seed', async (req, res) => {
   try {
     await Recipe.deleteMany();
-    console.log('Deleted all existing activities.');
+    console.log('Deleted all existing recipes.');
     console.log('Seed Data:', recipeSeedData);
     await Recipe.insertMany(recipeSeedData);
     res.status(200).send('Recipe seeding completed!');
   }
   catch (error) {
-    res.status(500).send(`Error seeding users: ${error.message}`);
+    res.status(500).send(`Error seeding recipes: ${error.message}`);
   }
 });
 
 // 📌 GET All Recipes
 router.get("/", async (req, res) => {
+  console.log("GET /recipes hit"); // debugging log
   try {
     const recipes = await Recipe.find();
     res.json(recipes);
